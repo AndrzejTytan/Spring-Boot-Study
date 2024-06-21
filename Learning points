@@ -1,0 +1,12 @@
+Logging:
+- where to find them?
+
+Unit testing
+
+REST
+SOAP
+Sending emails
+Error handlers https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
+properties profiles - hide dev from public github repo?
+activeMQ - part of spring
+HTTP request/response structure
